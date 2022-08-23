@@ -1,0 +1,27 @@
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x0
+FILETYPE 0x0
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "080904E4"
+        {
+            VALUE "CompanyName", "Gamers Against Weed"
+            VALUE "FileDescription", "Run stuff as TrustedInstaller"
+            VALUE "FileVersion", "1.0"
+            VALUE "LegalCopyright", "Hello"
+            VALUE "OriginalFilename", "tirun.exe"
+            VALUE "ProductName", "tirun"
+            VALUE "ProductVersion", "1.0"
+        }
+    }
+
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x0409, 0x04E4
+    }
+}
+
+1 24 manifest.xml
