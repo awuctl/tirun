@@ -2,7 +2,7 @@
 
 Run a process with TrustedInstaller rights.
 
-The spiritual successor to superUser. The goal of this is basically just to have a small executable.r
+The spiritual successor to superUser. The goal of this is basically just to have a small executable and not be too painful to read.
 
 ## Usage
 
